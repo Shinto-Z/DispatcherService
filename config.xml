@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding="utf-8" ?>
+<configuration>
+<exeLocation>C:\Windows\System32\WindowsPowerShell\v1.0</exeLocation>
+<exeName>powershell.exe</exeName>
+<exeParameters></exeParameters>
+<scriptName>test.ps1</scriptName>
+<timerTime>60000</timerTime>
+</configuration>
